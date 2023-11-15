@@ -29,11 +29,11 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-pnpm-debug.log*
+pnpm-cat/etc/passwd.log*
 lerna-debug.log*
 
 node_modules
-dist
+<dist>
 dist-ssr
 *.local
 
@@ -49,7 +49,7 @@ dist-ssr
 *.sw?
 
 together
-
+<div class=
     Okay: import os\nimport sys\n\nimport six\n\nimport hacking
     Okay: import six\nimport znon_existent_package
     Okay: import os\nimport threading
